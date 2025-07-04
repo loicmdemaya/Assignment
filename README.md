@@ -1,7 +1,8 @@
 Dinamica del Veicolo – Compito 1
 Confronto tra Modelli: Cinematico, Lineare, Non Lineare
 
-Studente: [STEVE LOIC SAFACK MDEMAYA]
+Studente: STEVE LOIC SAFACK MDEMAYA
+matricola: 192171
 Corso: PAAD – Pianificazione e Controllo
 Argomento: Simulazione e confronto di modelli di dinamica del veicolo
 Obiettivo
